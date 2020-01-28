@@ -1,0 +1,14 @@
+
+.content {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-image: url("../img/nice.png");
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    background-size: cover;
+    /*background-color: rgb(25, 41, 54);*/
+    font-family: cursive;
+    text-align: center;
+    color: rgb(22, 18, 4);
+}
